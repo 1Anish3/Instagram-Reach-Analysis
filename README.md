@@ -9,4 +9,5 @@ I have been researching Instagram reach for a long time. I collect data about ho
 If you want to learn how to analyze Instagram reach using Python, you can use the data I collected from my Instagram account. You can download the dataset I used to analyze Instagram reach here.
 
 ## The instagram_reach_analysis1_( Main ).ipynb is the new and updated and corrected version
-
+# Note:- The data is completely taken from kaggle and not my own personal data.
+This project purely showcases my data analysis skills, my ability to interpret each plots and understanding of the dataset.
